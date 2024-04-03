@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Barnold65
 - 👀 I’m interested in learning code to switch careers
-- 🌱 I’m currently learning python 3, JavaScript and SQL
+- 🌱 I’m currently learning python 3, HTML, CSS, JavaScript and SQL
 
 <!---
 Barnold65/Barnold65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
